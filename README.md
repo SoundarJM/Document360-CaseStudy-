@@ -1,37 +1,39 @@
-# Document360-CaseStudy
+# 📈 SaaS Revenue & Retention Strategy – Document360 Case Study
 
-# 📘 SaaS Growth & Retention Analysis – Document360
+## 🎯 Overview
+A deep-dive analysis of Document360's SaaS growth performance using core SaaS metrics, product analytics, and business strategy frameworks. Built as part of a data/business analyst assessment for Kovai.co.
 
-## 🎯 Objective
-To evaluate Document360's SaaS performance, with a focus on identifying bottlenecks in acquisition, activation, and retention, and propose data-backed strategies to improve revenue, customer lifetime value (LTV), and reduce churn.
+## 🧩 Problem Statement
+Analyze growth challenges across acquisition, retention, and expansion. Identify inefficiencies and propose strategic initiatives to unlock revenue and LTV growth.
 
-## 📊 Key Focus Areas
-- SaaS Metrics: LTV, CAC, Magic Number, Rule of 40
-- Funnel Analysis: Website visitors → Trial → Paid
-- Retention Analysis: Churn, NRR, GRR
-- Strategic Frameworks: RARRA > AARRR
-- Root Cause Diagnosis of Growth Bottlenecks
+## 📊 Key Metrics (Sample Data Provided)
+- Website Traffic: 2.5M
+- MRR: $1.2M | ARR: $14.4M
+- NRR: 98% | Churn: 4.5%/month
+- Free Trial Signups: 50K | Free-to-Paid: 7%
+- Trial Drop-off Reasons: Setup complexity (40%), integrations (25%), unclear value (20%)
 
-## 📈 Highlights
-- Churn rate = 4.5% → unsustainable loss of revenue
-- NRR < 100% → losing more from existing customers than gaining
-- Trial-to-paid conversion = 12% → setup complexity a key blocker
-- CPA = $350, but low monetization → inefficient acquisition spend
+## 📚 Frameworks Used
+- **RARRA (Retention-First Growth)** over AARRR or PLG
+- **Impact vs Effort Matrix** for prioritization
+- SaaS KPIs: LTV, CAC, Magic Number, Rule of 40
 
-## 🧠 Recommendations
-1. Targeted retention campaigns using churn-risk signals
-2. Redesign onboarding to reduce complexity, add tooltips & segmentation
-3. Feature bundling & value-based pricing
-4. Focus on mid-market & enterprise segments for higher LTV
-5. Launch referral + loyalty programs to lower CAC
+## 🔍 Insights
+- Retention is the biggest leak: churn at 4.5% wipes out growth
+- Trial experience is complex → only 45% complete onboarding
+- High CPA ($350) + low conversion (7%) = inefficient acquisition spend
+- Expansion revenue only 20% → under-leveraged
 
-## 💡 Frameworks Used
-- **RARRA**: Retention-first approach to growth
-- **Impact/Effort Matrix**: Prioritized strategy list
-- **SaaS Benchmarks**: Industry comparisons for churn, NRR, CPA
+## 💡 Recommendations
+1. Churn Prediction & Risk-based Retention Campaigns
+2. Shorter, segmented Onboarding Tours
+3. Value-based Pricing Repackaging
+4. Focus on Mid-Market & Enterprise for LTV lift
+5. Launch Referral & Loyalty Program to reduce CAC
 
-## 🛠️ Tools & Skills
-- Product Strategy
-- SaaS Metrics Analysis
-- Problem Solving & First-Principles Thinking
-- Funnel Analysis & Retention Strategy
+## 📁 Files Included
+- PDF Report (full case study)
+- Excel with SaaS metric calcs
+
+## 🔗 Author
+[Soundar Jambu – LinkedIn](https://www.linkedin.com/in/soundar-j-6aa512180/)
